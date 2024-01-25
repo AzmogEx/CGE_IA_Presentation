@@ -1,0 +1,36 @@
+$dark: #1e1e1e;
+$light: #efefef;
+$bento: #8000ff;
+
+@import "../node_modules/bootstrap/scss/_functions.scss";
+@import "../node_modules/bootstrap/scss/_variables.scss";
+
+@import url("https://fonts.cdnfonts.com/css/varela-round-3");
+
+$custom-theme-colors: (
+	"bento": $bento,
+);
+
+$theme-colors: map-merge($custom-theme-colors, $theme-colors);
+
+body {
+	background: rgb(13, 5, 31);
+	background: linear-gradient(69deg, rgba(13, 5, 31, 1) 15%, rgba(50, 14, 85, 1) 50%, rgba(52, 7, 56, 1) 86%);
+}
+
+body::-webkit-scrollbar {
+	width: 5px; /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+	background: $dark; /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+	border-radius: 10px; /* roundness of the scroll thumb */
+	border: 3px solid $bento; /* creates padding around scroll thumb */
+}
+
+$theme-colors: map-merge($custom-theme-colors, $theme-colors);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
