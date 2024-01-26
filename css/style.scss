@@ -13,5 +13,76 @@ $light: #efefef;
 
 //$theme-colors: map-merge($custom-theme-colors, $theme-colors);
 
-
 @import "../node_modules/bootstrap/scss/bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style-type: none;
+}
+
+body {
+	overflow-x: hidden;
+	font-family: "Poppins", sans-serif;
+}
+
+header {
+	padding-top: 20px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+nav li {
+	background-color: transparent;
+	border: none;
+	color: white;
+	margin: 0px 15px;
+	transition: background-color 0.5s ease;
+}
+
+ul {
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	display: flex;
+	background-color: #375850;
+	border-radius: 24px;
+	padding: 10px;
+	position: relative;
+}
+
+.active a {
+	position: relative;
+	color: #375850;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+i {
+	height: 45px;
+	position: absolute;
+	background-color: #ffffff;
+	width: 100px;
+	left: 25px;
+	transform: translate(-1.5625rem, -0.625rem);
+	border-radius: 28px;
+	transition: left 0.5s ease;
+}
+
+.active i {
+	width: 100px;
+	transition: all 0.5s ease;
+	transform: translate(-25px, -10px);
+}
+
+@media (max-width: 1024px) {
+	header {
+		flex-direction: row;
+		gap: 3rem;
+	}
+}
