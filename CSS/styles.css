@@ -1,0 +1,13 @@
+.navbar-list {
+    list-style-type: none;
+    margin-left: 20vw;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 0.5em;
+}
