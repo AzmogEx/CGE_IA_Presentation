@@ -47,7 +47,7 @@ nav li {
 ul {
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 	display: flex;
-	background-color: #375850;
+	background-color: $bleu-cci;
 	border-radius: 24px;
 	padding: 10px;
 	position: relative;
@@ -55,7 +55,7 @@ ul {
 
 .active a {
 	position: relative;
-	color: #375850;
+	color: $bleu-cci;
 }
 
 a {
