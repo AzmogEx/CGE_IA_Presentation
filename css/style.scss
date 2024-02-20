@@ -2,6 +2,7 @@
 @import "../node_modules/bootstrap/scss/_variables.scss";
 
 @import url("https://fonts.cdnfonts.com/css/varela-round-3");
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 
 $dark: #1e1e1e;
 $light: #efefef;
@@ -27,3 +28,9 @@ body {
 	overflow-x: hidden;
 	font-family: "Poppins", sans-serif;
 }
+
+.archivo-black-regular {
+	font-family: "Archivo Black", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+  }
