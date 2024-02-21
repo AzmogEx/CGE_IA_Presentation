@@ -11970,7 +11970,7 @@ body {
   font-style: normal;
 }
 
-.card:hover {
+.clickable:hover {
   cursor: pointer;
 }
 

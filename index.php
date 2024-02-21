@@ -21,29 +21,29 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card rounded-5">
+                    <div class="card clickable rounded-5">
                         <a data-bs-toggle="modal" data-bs-target="#decouvrirModal"><img class="card-img rounded-5" src="/assets/img/decouvrir.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card rounded-5">
-                        <a href="https://www.google.com"><img class="card-img rounded-5" src="/assets/img/actualites.png"></a>
+                    <div class="card clickable rounded-5">
+                        <a data-bs-toggle="modal" data-bs-target="#actualiteModal"><img class="card-img rounded-5" src="/assets/img/actualites.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card rounded-5">
+                    <div class="card clickable rounded-5">
                         <a href="https://www.google.com"><img class="card-img rounded-5" src="/assets/img/quizz.png"></a>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card rounded-5">
-                        <a href="https://www.google.com"><img class="card-img rounded-5" src="/assets/img/listeia.png"></a>
+                    <div class="card clickable rounded-5">
+                        <a data-bs-toggle="modal" data-bs-target="#listeiaModal"><img class="card-img rounded-5" src="/assets/img/listeia.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card rounded-5">
+                    <div class="card clickable rounded-5">
                         <div class="card-body">
                             <audio controls src="/assets/audio/capsule-deepfake.mp3"></audio>
                             <audio controls src="/assets/audio/capsule-soltani-nolwen.mp3"></audio>
@@ -71,20 +71,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
 
-<!-- Modal -->
-<div class="modal fade" id="decouvrirModal" tabindex="-1" aria-labelledby="decouvrirModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="decouvrirModalLabel">Découvrir les IA</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                ...
-            </div>
-        </div>
-    </div>
-</div>
+<!-- MODAL DECOUVRIR -->
+<?php include 'assets/modals/decouvrir.php' ?>
+<?php include 'assets/modals/liste.php' ?>
+<?php include 'assets/modals/actualite.php' ?>
+
 
 
 </html>
