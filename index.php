@@ -61,11 +61,11 @@
             <img class="bi me-2" src="/assets/img/logo_cci_gard_web.png" height="50" alt="" />
         </a>
         <ul class="nav col-md-4 justify-content-end">
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Accueil</a></li>
+            <li class="nav-item"><a href="/index.php" class="nav-link px-2 text-body-secondary">Accueil</a></li>
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Carte</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQ</a></li>
+            <li class="nav-item"><a href="/faq.html" class="nav-link px-2 text-body-secondary">FAQ</a></li>
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">A propos</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Partenaires</a></li>
+            <li class="nav-item"><a href="/partenaires.php" class="nav-link px-2 text-body-secondary">Partenaires</a></li>
         </ul>
     </footer>
     <script src="/js/nav.js"></script>
