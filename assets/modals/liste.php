@@ -67,7 +67,7 @@
                 <div class="row mx-1">
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title">Plus d'informations sur les différentes ia</h4>
+                            <h4 class="card-title">Plus d'informations sur les différentes IA</h4>
                             <a class="btn btn-cci" href="https://padlet.com/chlo_dischmulle/le-kit-des-intelligences-artificielles-destination-des-l-ves-yq3gcp924z3r8zur/slideshow/wish/2853434529" role="button"><i class="bi bi-box-arrow-up-right"></i> Accéder</a>
                         </div>
                     </div>
