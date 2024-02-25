@@ -61,6 +61,11 @@
                         <a data-bs-toggle="modal" data-bs-target="#refModal"><img class="card-img rounded-5" src="/assets/img/ref.png"></a>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                    <div class="card clickable rounded-5">
+                        <a data-bs-toggle="modal" data-bs-target="#remplacementModal"><img class="card-img rounded-5" src="/assets/img/remplacement.png"></a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -88,6 +93,7 @@
 <?php include 'assets/modals/actualite.php' ?>
 <?php include 'assets/modals/danger.php' ?>
 <?php include 'assets/modals/ref.php' ?>
+<?php include 'assets/modals/remplacement.php' ?>
 
 
 
