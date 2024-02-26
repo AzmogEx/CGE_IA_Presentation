@@ -1,5 +1,5 @@
 <div class="modal fade" id="dangerModal" tabindex="-1" aria-labelledby="dangerModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
+    <div class="modal-dialog m-lg-5 m-md-3 m-sm-1">
         <div class="modal-content">
             <div class="modal-header">
                 <h1 class="modal-title fs-5" id="dangerModalLabel">Les Dangers des IA</h1>

@@ -1,5 +1,5 @@
 <div class="modal fade" id="listeiaModal" tabindex="-1" aria-labelledby="listeiaModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
+    <div class="modal-dialog m-lg-5 m-md-3 m-sm-1">
         <div class="modal-content">
             <div class="modal-header">
                 <h1 class="modal-title fs-5" id="listeiaModalLabel">Découvrir les IA</h1>
@@ -68,7 +68,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h4 class="card-title">Plus d'informations sur les différentes IA</h4>
-                            <a class="btn btn-cci" href="https://padlet.com/chlo_dischmulle/le-kit-des-intelligences-artificielles-destination-des-l-ves-yq3gcp924z3r8zur/slideshow/wish/2853434529" role="button"><i class="bi bi-box-arrow-up-right"></i> Accéder</a>
+                            <a class="btn btn-cci" href="https://padlet.com/chlo_dischmulle/le-kit-des-intelligences-artificielles-destination-des-l-ves-yq3gcp924z3r8zur/slideshow/section/207290862" role="button"><i class="bi bi-box-arrow-up-right"></i> Accéder</a>
                         </div>
                     </div>
                 </div>

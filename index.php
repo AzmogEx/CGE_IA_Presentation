@@ -18,7 +18,7 @@
         <h1 class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
     </div>
     <!-- CARTES BENTO -->
-    <section style="height: 100vh;">
+    <section>
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
