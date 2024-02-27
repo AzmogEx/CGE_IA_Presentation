@@ -9,57 +9,57 @@
                 <div class="row">
                     <div class="col d-flex align-items-stretch">
                         <div class="card mb-2">
-                            <img src="https://www.leparisien.fr/resizer/k_klETO9sa87i65eU9c5J6hdY6I=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/ZVGEJXATVJCNBKUQ3TR2AU4IIY.jpg" class="card-img" alt="Photo d'un affiche sur le deep fake">
+                            <img src="https://www.macsf.fr/var/macsf/storage/images/2/3/0/3/943032-129-fre-FR/IA_santé_macsf%20-%20615x555.jpg" class="card-img" alt="Photo d'un affiche sur le deep fake">
                             <div class="card-body">
-                                <a href="https://www.leparisien.fr/societe/cest-quoi-mia-loutil-dintelligence-artificielle-bientot-deploye-pour-tous-les-eleves-de-seconde-06-12-2023-UP25SKQEMRBOXGEXGAIWBVJQ5I.php">
-                                    <h5 class="card-title">C’est quoi MIA, l’outil d’intelligence artificielle bientôt déployé pour tous les élèves de seconde ?</h5>
+                                <a href="https://www.macsf.fr/actualites/intelligence-artificielle-et-sante-quels-changements-pour-vos-pratiques">
+                                    <h5 class="card-title">L'ia dans la médecine</h5>
                                 </a>
-                                <p class="card-text">Découvrez MIA, la nouvelle intelligence artificielle du gouvernement pour aider les lycéens dans leur apprentissage.</p>
+                                <p class="card-text">L'ia dans la médecine pourrait elle remplacer les médecin ?.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
-                                <small class="text-body-secondary">Le Parisien</small>
+                                <small class="text-body-secondary">Macsf</small>
                             </div>
                         </div>
                     </div>
                     <div class="col d-flex align-items-stretch">
                         <div class="card mb-2">
-                            <img src="https://www.01net.com/app/uploads/2024/01/deepfake-marine-le-pen-2-896x596.jpg" class="card-img" alt="Photo d'un affiche sur le deep fake">
+                            <img src="https://www.nouvelleviepro.fr/wp-content/uploads/2023/04/nouvelleviepro-ia-metiers-876x493.jpg" class="card-img" alt="Photo d'un affiche sur le deep fake">
                             <div class="card-body">
-                                <a href="https://www.01net.com/actualites/marine-le-pen-en-russe-le-deepfake-qui-brouille-le-message-du-gouvernement.html">
-                                    <h5 class="card-title">Marine Le Pen en russe</h5>
+                                <a href="https://www.nouvelleviepro.fr/34-metiers-qui-ne-seront-pas-remplaces-par-ia">
+                                    <h5 class="card-title">Quel métier ne seront pas remplacé par les IA</h5>
                                 </a>
-                                <p class="card-text">Alors que le gouvernement veut encadrer de près les pratiques de trucages numériques dans les vidéos — les deepfakes —, un porte-parole du parti présidentiel a mis en ligne une vidéo deepfake de Marine Le Pen.</p>
+                                <p class="card-text">Les métiers qui ont le moins de risque d'être remplacé</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
-                                <small class="text-body-secondary">01 NET</small>
+                                <small class="text-body-secondary">Alociné</small>
                             </div>
                         </div>
                     </div>
                     <div class="col d-flex align-items-stretch">
                         <div class="card mb-2">
-                            <img src="https://www.digitaltrends.com/wp-content/uploads/2024/01/DT-CES-2024-Feature-Image-Topic.jpg?resize=1200%2C630&p=1" class="card-img" alt="Infographie CES 2024">
+                            <img src="https://media.licdn.com/dms/image/D5612AQHwS4m17S00RA/article-cover_image-shrink_720_1280/0/1691074259795?e=1714608000&v=beta&t=xShw7Hq4Lb2zE1s1ZemZJy1Hpq7cdXT6YHrt-Ifghc0" class="card-img" alt="Infographie CES 2024">
                             <div class="card-body">
-                                <a href="https://www.bfmtv.com/tech/nouveautes-produits/direct-ces-2024-sommeil-handicap-les-innovations-tech-ciblent-le-bien-etre-et-la-sante_LN-202401110095.html">
-                                    <h5 class="card-title">CES 2024: jumelles identifiant les oiseaux, IA avec un visage... Tous les produits présentés</h5>
+                                <a href="https://www.linkedin.com/pulse/limpact-révolutionnaire-de-lia-sur-le-métier-designer-graphique/?originalSubdomain=fr">
+                                    <h5 class="card-title">Les Graphiste en danger avec l'ia</h5>
                                 </a>
-                                <p class="card-text">Le CES 2024 entame sa troisième journée. Le salon de Las Vegas continue de dévoiler les innovations qui feront le quotidien de demain, notamment dans le domaine de la santé, du bien-être et de l'aide à la personne.</p>
+                                <p class="card-text">Voici un article sur comment l'ia va mettre au chomage les ia.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
-                                <small class="text-body-secondary">BFMTV Tech&Co</small>
+                                <small class="text-body-secondary">Indeed</small>
                             </div>
                         </div>
                     </div>
                     <div class="col d-flex align-items-stretch">
                         <div class="card mb-2">
-                            <img src="https://static-images.lpnt.fr/cd-cw1618/images/2024/01/17/25917989lpw-25918083-mega-une-jpg_10053918.jpg" class="card-img" alt="Doigt pointé sur un holograme du corps humain">
+                            <img src="https://www.lebigdata.fr/wp-content/uploads/2023/02/chatgpt-travail-metiers-remplacement-1050x525.png" class="card-img" alt="Doigt pointé sur un holograme du corps humain">
                             <div class="card-body">
-                                <a href="https://www.lepoint.fr/sante/l-ia-de-google-plus-forte-que-les-medecins-17-01-2024-2550040_40.php">
-                                    <h5 class="card-title">L’IA de Google plus forte que les médecins</h5>
+                                <a href="https://www.lebigdata.fr/chatgpt-metiers-grand-remplacement">
+                                    <h5 class="card-title">Les métiers les plus en danger à cause de l'ia</h5>
                                 </a>
-                                <p class="card-text">Une nouvelle étude menée par la firme californienne montre qu’une intelligence artificielle type ChatGPT fait un meilleur diagnostic qu’un véritable médecin.</p>
+                                <p class="card-text">Voici les différents métier les plus suspceptible d'être remplacé à cause de l'ia.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
-                                <small class="text-body-secondary">Le Point</small>
+                                <small class="text-body-secondary">Le bigData</small>
                             </div>
                         </div>
                     </div>
@@ -67,8 +67,8 @@
                 <div class="row mx-1">
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title">Plus d'informations sur Google Actualités</h4>
-                            <a class="btn btn-cci" href="https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNRzFyZWhJQ1puSW9BQVAB?ceid=FR:fr&oc=3" role="button"><i class="bi bi-box-arrow-up-right"></i> Accéder</a>
+                            <h4 class="card-title">Plus d'informations sur les différents métiers susceptible d'être remplacé</h4>
+                            <a class="btn btn-cci" href="https://padlet.com/chlo_dischmulle/le-kit-des-intelligences-artificielles-destination-des-l-ves-yq3gcp924z3r8zur/slideshow/wish/2853434529" role="button"><i class="bi bi-box-arrow-up-right"></i> Accéder</a>
                         </div>
                     </div>
                 </div>

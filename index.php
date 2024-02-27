@@ -79,6 +79,11 @@
                                 src="/assets/img/remplacement.png"></a>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                    <div class="card clickable rounded-5">
+                        <a data-bs-toggle="modal" data-bs-target="#videoModal"><img class="card-img rounded-5" src="/assets/img/kit-video.png"></a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -111,6 +116,7 @@
 <?php include 'assets/modals/danger.php' ?>
 <?php include 'assets/modals/ref.php' ?>
 <?php include 'assets/modals/remplacement.php' ?>
+<?php include 'assets/modals/video.php' ?>
 
 
 
