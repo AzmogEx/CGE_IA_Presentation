@@ -11983,4 +11983,20 @@ body {
   height: 100%;
 }
 
+.logo-cci-top {
+  float: left;
+}
+
+.logo-cci {
+  width: 50%;
+}
+
+.logo-metropole-top {
+  float: right;
+}
+
+.logo-metropole {
+  width: 15%;
+}
+
 /*# sourceMappingURL=style.css.map */
