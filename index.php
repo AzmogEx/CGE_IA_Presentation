@@ -17,7 +17,7 @@
 
     <div class="container mt-5">
         <div class="logo-cci-top"><img class="logo-cci" src="/assets/img/logo_cci_gard_web.png" alt="logo-cci"></div>
-        <h1 align="center" class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
+        <h1 class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
         <div class="logo-metropole-top"><img class="logo-metropole" src="/assets/img/métropole.png" alt="logo-métropole">
         </div>
     </div>
@@ -91,8 +91,7 @@
             <li class="nav-item"><a href="/index.php" class="nav-link px-2 text-body-secondary">Accueil</a></li>
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Carte</a></li>
             <li class="nav-item"><a href="/faq.html" class="nav-link px-2 text-body-secondary">FAQ</a></li>
-            <li class="nav-item"><a href="/partenaires.php" class="nav-link px-2 text-body-secondary">Partenaires</a>
-            </li>
+            <li class="nav-item"><a href="/partenaires.php" class="nav-link px-2 text-body-secondary">Partenaires</a></li>
         </ul>
     </footer>
     <script src="/js/nav.js"></script>
