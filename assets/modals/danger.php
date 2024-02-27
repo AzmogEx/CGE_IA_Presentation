@@ -7,7 +7,7 @@
             </div>
             <div class="modal-body container">
                 <div class="row">
-                    <div class="col d-flex align-items-stretch">
+                    <div class="col-xl-4 d-flex align-items-stretch">
                         <div class="card mb-2">
                             <img src="/assets/img/macron.png" class="card-img" alt="Macron qui rape">
                             <div class="card-body">
