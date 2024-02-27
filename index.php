@@ -16,9 +16,16 @@
     <!-- TITRE -->
 
     <div class="container mt-5">
-        <div class="logo-cci-top"><img class="logo-cci" src="./assets/img/logo_cci_gard_web.png" alt="logo-cci"></div>
-        <h1 align="center" class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
-        <div class="logo-metropole-top"><img class="logo-metropole" src="./assets/img/métropole.png" alt="logo-métropole">
+        <div class="row">
+            <div class="col">
+                <img class="logo-cci" src="./assets/img/logo_cci_gard_web.png" alt="logo-cci">
+            </div>
+            <div class="col">
+                <h1 align="center" class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
+            </div>
+            <div class="col">
+                <img class="" src="./assets/img/métropole.png" alt="logo-métropole">
+            </div>
         </div>
     </div>
 
