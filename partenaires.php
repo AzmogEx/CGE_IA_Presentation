@@ -14,7 +14,7 @@
 	<!--NAVBAR-->
 	<header></header>
 	<!-- TITRE -->
-	<div class="container mt-5" align="center">
+	<div class="container mt-5 align-center">
 		<h1 class="display-6 align-center archivo-black-regular">Partenaires</h1>
 	</div>
 	<!-- CARTES BENTO -->
