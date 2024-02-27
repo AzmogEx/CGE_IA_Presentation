@@ -16,15 +16,15 @@
     <!-- TITRE -->
 
     <div class="container mt-5">
-        <div class="row">
-            <div class="col">
-                <img class="logo-cci" src="./assets/img/logo_cci_gard_web.png" alt="logo-cci">
+        <div class="row mb-5">
+            <div class="col-xl-2 col-sm-12">
+                <img class="w-50" src="./assets/img/logo_cci_gard_web.png" alt="logo-cci">
             </div>
-            <div class="col">
+            <div class="col-xl-8 col-sm-12">
                 <h1 align="center" class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
             </div>
-            <div class="col">
-                <img class="" src="./assets/img/métropole.png" alt="logo-métropole">
+            <div class="col-xl-2 col-sm-12">
+                <img class="w-50" src="./assets/img/métropole.png" alt="logo-métropole">
             </div>
         </div>
     </div>
