@@ -18,7 +18,7 @@
     <div class="container mt-5">
         <div class="row mb-5">
             <div class="col-xl-2 col-sm-12">
-                <img class="w-50" src="./assets/img/logo_cci_gard_web.png" alt="logo-cci">
+                <img class="w-50" src="./assets/img/cci-campus.png" alt="logo-cci">
             </div>
             <div class="col-xl-8 col-sm-12">
                 <h1 align="center" class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
@@ -90,7 +90,7 @@
     <footer class="container d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
         <p class="col-md-4 mb-0 text-body-secondary">© 2024 CCI GARD NIMES</p>
         <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-            <img class="bi me-2" src="/assets/img/logo_cci_gard_web.png" height="50" alt="" />
+            <img class="bi me-2" src="/assets/img/cci-campus.png" height="100" alt="" />
         </a>
         <ul class="nav col-md-4 justify-content-end">
             <li class="nav-item"><a href="/index.php" class="nav-link px-2 text-body-secondary">Accueil</a></li>
