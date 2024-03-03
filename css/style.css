@@ -11992,11 +11992,12 @@ body {
   max-width: 50%; /* Ajustez la valeur selon vos besoins */
   margin: 1.75rem auto; /* Pour centrer le modal horizontalement */
 }
+
 audio {
   margin-bottom: 1vw;
   display: block;
   border-radius: 1em;
-  background-color: #373cf5;
+  background-color: #3773f5 !important;
 }
 
 /*# sourceMappingURL=style.css.map */
