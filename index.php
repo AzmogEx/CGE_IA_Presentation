@@ -62,8 +62,10 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                     <div class="card clickable rounded-5">
                         <div class="card-body">
-                            <audio controls src="/assets/audio/capsule-deepfake.mp3"></audio>
-                            <audio controls src="/assets/audio/capsule-soltani-nolwen.mp3"></audio>
+                            <audio class="audio-controls" type='audio/mp3' src="/assets/audio/capsule-deepfake.mp3"
+                                controls></audio>
+                            <audio class="audio-controls" type='audio/mp3'
+                                src="/assets/audio/capsule-soltani-nolwen.mp3" controls></audio>
                         </div>
                     </div>
                 </div>
@@ -81,7 +83,8 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                     <div class="card clickable rounded-5">
-                        <a data-bs-toggle="modal" data-bs-target="#videoModal"><img class="card-img rounded-5" src="/assets/img/kit-video.png"></a>
+                        <a data-bs-toggle="modal" data-bs-target="#videoModal"><img class="card-img rounded-5"
+                                src="/assets/img/kit-video.png"></a>
                     </div>
                 </div>
             </div>

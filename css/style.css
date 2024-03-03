@@ -7,6 +7,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&display=swap");
 :root,
 [data-bs-theme=light] {
   --bs-blue: #0d6efd;
@@ -11983,20 +11984,11 @@ body {
   height: 100%;
 }
 
-.logo-cci-top {
-  float: left;
-}
-
-.logo-cci {
-  width: 50%;
-}
-
-.logo-metropole-top {
-  float: right;
-}
-
-.logo-metropole {
-  width: 15%;
+audio {
+  margin-bottom: 1vw;
+  display: block;
+  border-radius: 1em;
+  background-color: #373cf5;
 }
 
 /*# sourceMappingURL=style.css.map */

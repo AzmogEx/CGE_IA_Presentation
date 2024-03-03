@@ -17,6 +17,8 @@ $theme-colors: map-merge($custom-theme-colors, $theme-colors);
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&display=swap");
+
 * {
     margin: 0;
     padding: 0;
@@ -46,4 +48,12 @@ body {
 
 .modal-content {
     height: 100%;
+}
+
+audio {
+    
+    margin-bottom: 1vw;
+    display: block;
+    border-radius: 1em;
+    background-color: $bleu-cci;
 }
