@@ -14,8 +14,8 @@
 	<!--NAVBAR-->
 	<header></header>
 	<!-- TITRE -->
-	<div class="container mt-5" align="center">
-		<h1 class="display-6 align-center archivo-black-regular">Partenaires</h1>
+	<div class="container mt-5 align-center">
+		<h1 class="display-6 align-center archivo-black-regular">Les partenaires</h1>
 	</div>
 	<!-- CARTES BENTO -->
 	<section style="height: 100vh">
@@ -23,12 +23,12 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-6 col-sm-12 p-3">
 					<div class="card clickable rounded-5">
-						<a href="https://www.gard.cci.fr/"><img class="card-img rounded-5" src="/assets/img/cci.png" /></a>
+						<a href="https://www.gard.cci.fr/"><img class="card-img rounded-5" src="/assets/img/cci-campus.png" /></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 p-3">
 					<div class="card clickable rounded-5">
-						<a href="https://www.nimes-metropole.fr/accueil.html"><img class="card-img rounded-5" src="/assets/img/métropole.jpg" /></a>
+						<a href="https://www.nimes-metropole.fr/accueil.html"><img class="card-img rounded-5" src="/assets/img/métropole.png" /></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 p-3">
