@@ -1,5 +1,5 @@
 <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="VideoModalLabel" aria-hidden="true">
-    <div class="modal-dialog m-lg-5 m-md-3 m-sm-1">
+    <div class="modal-dialog modal-xl"> <!-- Utilisation de modal-xl pour un modal extra-large -->
         <div class="modal-content">
             <div class="modal-header">
                 <h1 class="modal-title fs-5" id="VideoModalLabel">Kit Vidéo sur les IA</h1>
@@ -7,8 +7,13 @@
             </div>
             <div class="modal-body container">
                 <div class="row">
-                    <iframe src="" frameborder="0"></iframe><!--ICI LA VIDEO DE JEANETTE-->
+                    <div class="col-12">
+                        <div class="video-container">
+                            <iframe src="/assets/video-kit-num.mp4" allowfullscreen></iframe>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
