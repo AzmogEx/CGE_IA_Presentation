@@ -11993,6 +11993,21 @@ body {
   margin: 1.75rem auto; /* Pour centrer le modal horizontalement */
 }
 
+.card-body {
+  padding-bottom: 0vw;
+}
+
+.audio-controls-1 {
+  margin-left: 2vw;
+  margin-top: 2vw;
+  margin-bottom: 4.5vw;
+}
+
+.audio-controls-2 {
+  margin-bottom: 2vw;
+  margin-left: 2vw;
+}
+
 audio {
   margin-bottom: 1vw;
   display: block;
