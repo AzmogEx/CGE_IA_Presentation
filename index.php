@@ -13,6 +13,21 @@
 <body>
     <!--NAVBAR-->
     <header></header>
+
+    <!-- MODAL INFORMATION PROJETS -->
+    <div class="modal fade bg-dark bg-opacity-75" id="modalInformations" tabindex="-1" aria-labelledby="modalInformationsLabel" aria-hidden="true">
+        <div class="modal-dialog custom-modal-dialog" role="document">
+            <div class="modal-content bg-dark text-light">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="modalInformationsLabel">Bienvenue</h1>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">Ce site a été créé dans le cadre d'un projet de table ronde sur les IA, il permettra d'en apprendre plus sur le fonctionnement des IA, les dangers et les bienfaits de cette nouvelle technologie.</div>
+            </div>
+        </div>
+
+    </div>
+
     <!-- TITRE -->
 
     <div class="container mt-5">
@@ -21,7 +36,7 @@
                 <img class="w-50" src="./assets/img/cci-campus.png" alt="logo-cci">
             </div>
             <div class="col-xl-8 col-sm-12">
-                <h1 align="center" class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
+                <h1 class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
             </div>
             <div class="col-xl-2 col-sm-12">
                 <img class="w-50" src="./assets/img/métropole.png" alt="logo-métropole">
@@ -103,6 +118,12 @@
     </footer>
     <script src="/js/nav.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script>
+        window.onload = function () {
+            var myModal = new bootstrap.Modal(document.getElementById("modalInformations"));
+            myModal.show();
+        };
+    </script>
 </body>
 <!-- MODAL DECOUVRIR -->
 <?php include 'assets/modals/decouvrir.php' ?>
@@ -112,8 +133,5 @@
 <?php include 'assets/modals/ref.php' ?>
 <?php include 'assets/modals/remplacement.php' ?>
 <?php include 'assets/modals/video.php' ?>
-
-
-
 
 </html>

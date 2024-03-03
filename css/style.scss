@@ -49,5 +49,10 @@ body {
 }
 
 .logos-top {
-    display: block;
+	display: block;
+}
+
+.custom-modal-dialog {
+	max-width: 50%; /* Ajustez la valeur selon vos besoins */
+	margin: 1.75rem auto; /* Pour centrer le modal horizontalement */
 }

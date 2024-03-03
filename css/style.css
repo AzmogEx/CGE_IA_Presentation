@@ -11983,11 +11983,13 @@ body {
   height: 100%;
 }
 
-<<<<<<< HEAD
 .logos-top {
   display: block;
 }
 
-=======
->>>>>>> 1b7573dbe9eca0d1381fcfa89e3f64e04ea7e1d9
+.custom-modal-dialog {
+  max-width: 50%; /* Ajustez la valeur selon vos besoins */
+  margin: 1.75rem auto; /* Pour centrer le modal horizontalement */
+}
+
 /*# sourceMappingURL=style.css.map */
