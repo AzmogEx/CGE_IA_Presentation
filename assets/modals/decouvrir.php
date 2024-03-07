@@ -14,7 +14,7 @@
                                 <a>
                                     <h5 class="card-title">Les ia c'est quoi ?</h5>
                                 </a>
-                                <p class="card-text">L'intelligence artificielle est un ensemble de théories et de techniques visant à réaliser des machines capables de simuler l'intelligence humaine. Souvent classée dans le groupe des mathématiques et des sciences cognitives, elle fait appel à la neurobiologie computationnelle et à la logique mathématique.</p>
+                                <p class="card-text">L'intelligence artificielle est un ensemble de théories et de techniques visant à réaliser des machines capables de simuler l'intelligence humaine. Elle mélange la façon dont le cerveau traite l'information avec des règles mathématiques.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Indeed</small>
@@ -28,7 +28,7 @@
                                 <a>
                                     <h5 class="card-title">L'ia et les développeur</h5>
                                 </a>
-                                <p class="card-text">Les développeurs utilisent l'intelligence artificielle pour effectuer plus efficacement les tâches qui sont sinon effectuées manuellement, se connecter avec les clients, identifier les schémas et résoudre les problèmes. Pour commencer avec l'IA, les développeurs doivent avoir un arrière-plan en mathématiques et se sentir à l'aise avec les algorithmes.</p>
+                                <p class="card-text">Les développeurs utilisent l'intelligence artificielle pour être plus efficaces sur certaines tâches qui devraient sinon être effectuées manuellement, se connecter avec les clients, identifier les schémas et résoudre les problèmes. Pour commencer avec l'IA, les développeurs doivent avoir un arrière-plan en mathématiques et se sentir à l'aise avec les algorithmes.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Indeed</small>
@@ -61,7 +61,7 @@
 
                                     Trois facteurs stimulent le développement de l’IA dans tous les secteurs d'activité .
 
-                                    Des fonctionnalités informatiques abordables et hautes performances sont immédiatement disponibles. La puissance de calcul disponible en abondance dans le cloud permet de disposer de fonctionnalités de calcul abordables et aux performances élevées. Avant son développement, les seuls environnements informatiques disponibles pour l’IA n’étaient pas basés sur le cloud et leur coût était prohibitif.</p>
+                                    Des fonctionnalités informatiques abordables et de hautes performances sont immédiatement disponibles. La puissance de calcul disponible en abondance dans le cloud permet de disposer de fonctionnalités de calcul abordables et aux performances élevées. Avant son développement, les seuls environnements informatiques disponibles pour l’IA n’étaient pas basés sur le cloud et leur coût était prohibitif.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Indeed</small>

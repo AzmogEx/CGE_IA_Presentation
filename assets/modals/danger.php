@@ -14,7 +14,7 @@
                                 <a href="https://www.youtube.com/watch?v=xLs9soFVXrw">
                                     <h5 class="card-title">Macron rape sur Freeze Corleone</h5>
                                 </a>
-                                <p class="card-text">Sur cette vidéo on peut y voir un deepfake de Macron qui rappe sur Freeze Corleone. Cela permet donc de comprendre les dangers des ia qui pourrait par la suite faire diffuser de fausse informations sur n'importe qui..</p>
+                                <p class="card-text">Sur cette vidéo on peut y voir un deepfake de Macron qui rappe sur Freeze Corleone. Cela permet donc de comprendre les dangers des IA qui pourrait par la suite faire diffuser de fausse informations sur n'importe qui.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Youtube</small>
@@ -26,7 +26,7 @@
                             <img src="https://www.liberation.fr/resizer/fTIuF4Y2JiT35wKSY9md4xbqMGc=/768x0/filters:format(jpg):quality(70):focal(2026x1968:2036x1978)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/3VLRCTPHAJGY5CKKHNJ3YFFGHM.jpg" class="card-img" alt="Photo d'un affiche sur le deep fake">
                             <div class="card-body">
                                 <a href="https://www.liberation.fr/checknews/deepfake-un-faux-message-durgence-de-poutine-appelant-a-levacuation-de-regions-entieres-diffuse-a-la-television-et-radio-russe-20230605_OWD5F4WUHVGHRM2KE7INHAT76E/">
-                                    <h5 class="card-title">Fausse alerte à la bombe par une IA de la voix de Vladimir Poutine</h5>
+                                    <h5 class="card-title">Fausse alerte à la bombe par une IA avec la voix de Vladimir Poutine</h5>
                                 </a>
                                 <p class="card-text">Dans cette article du journal Liberation nous pouvons y découvrir qu'un faux message d'urgence de Poutine appellant à l'évacuation de régions entières aurait été diffusé à la télévision et à la radio Russe.</p>
                             </div>
@@ -57,7 +57,7 @@
                                 <a href="https://www.youtube.com/watch?v=EiV1YxtbfcE">
                                     <h5 class="card-title">Fausse chanson d'Angèle réalisée grâce à l'IA </h5>
                                 </a>
-                                <p class="card-text">Cette vidéo youtube est une chanson réalisée grâce à l'ia reproduisant très fidélement la voix de Angèle pouvant faire croire à certaines personnes que cette musique est officiel.</p>
+                                <p class="card-text">Cette vidéo youtube est une chanson réalisée grâce à l'IA reproduisant très fidèlement la voix de Angèle pouvant faire croire à certaines personnes que cette musique est officielle.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Youtube</small>

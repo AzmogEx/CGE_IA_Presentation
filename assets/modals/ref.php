@@ -45,7 +45,7 @@
                                 <a href="https://www.allocine.fr/series/ficheserie_gen_cserie=10855.html">
                                     <h5 class="card-title">Black Mirror</h5>
                                 </a>
-                                <p class="card-text">Chaque épisode de cette anthologie montre la dépendance des hommes vis-à-vis de tout ce qui a un écran....</p>
+                                <p class="card-text">"Black Mirror" est une série ou Chaque épisode présente des récits autonomes explorant divers aspects de la société moderne et les conséquences inattendues des nouvelles technologies. La série aborde souvent des thèmes tels que l'impact des médias sociaux, de la réalité virtuelle, de l'intelligence artificielle et de la surveillance sur les individus et la société dans son ensemble.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Allociné</small>

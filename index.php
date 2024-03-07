@@ -37,14 +37,15 @@
             <div class="col-xl-2 col-sm-12">
                 <img class="w-50" src="./assets/img/cci-campus.png" alt="logo-cci">
             </div>
-            <div class="col-xl-8 col-sm-12">
+            <div class="col-xl-7 col-sm-12">
                 <h1 class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
             </div>
-            <div class="col-xl-2 col-sm-12">
-                <img class="w-50" src="./assets/img/métropole.png" alt="logo-métropole">
+            <div class="col-xl-3 col-sm-12">
+                <img class="w-75" src="./assets/img/métropole.png" alt="logo-métropole">
             </div>
         </div>
     </div>
+
 
     <!-- CARTES BENTO -->
     <section>
@@ -57,24 +58,29 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                     <div class="card clickable rounded-5 shadow">
-                        <a data-bs-toggle="modal" data-bs-target="#actualiteModal"><img class="card-img rounded-5" src="/assets/img/actualites.png"></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card clickable rounded-5 shadow">
-                        <a href="/assets/Quizz-IA-Table-Rondes-CCI-GARD.pdf" target="_blank"><img class="card-img rounded-5" src="/assets/img/quizz.png"></a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card clickable rounded-5 shadow">
                         <a data-bs-toggle="modal" data-bs-target="#listeiaModal"><img class="card-img rounded-5" src="/assets/img/listeia.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                     <div class="card clickable rounded-5 shadow">
                         <a data-bs-toggle="modal" data-bs-target="#dangerModal"><img class="card-img rounded-5" src="/assets/img/danger.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                    <div class="card clickable rounded-5 shadow">
+                        <a data-bs-toggle="modal" data-bs-target="#remplacementModal"><img class="card-img rounded-5" src="/assets/img/remplacement.png"></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                    <div class="card clickable rounded-5 shadow">
+                        <a data-bs-toggle="modal" data-bs-target="#actualiteModal"><img class="card-img rounded-5" src="/assets/img/actualites.png"></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                    <div class="card clickable rounded-5 shadow">
+                        <a data-bs-toggle="modal" data-bs-target="#refModal"><img class="card-img rounded-5" src="/assets/img/ref.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3 d-flex align-items-stretch">
@@ -96,12 +102,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                     <div class="card clickable rounded-5 shadow">
-                        <a data-bs-toggle="modal" data-bs-target="#refModal"><img class="card-img rounded-5" src="/assets/img/ref.png"></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card clickable rounded-5 shadow">
-                        <a data-bs-toggle="modal" data-bs-target="#remplacementModal"><img class="card-img rounded-5" src="/assets/img/remplacement.png"></a>
+                        <a href="/assets/Quizz-IA-Table-Rondes-CCI-GARD.pdf" target="_blank"><img class="card-img rounded-5" src="/assets/img/quizz.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">

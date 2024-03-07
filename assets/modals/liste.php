@@ -14,7 +14,7 @@
                                 <a href="https://chat.openai.com/">
                                     <h5 class="card-title">ChatGPT</h5>
                                 </a>
-                                <p class="card-text">Chat GPT Est une ia de génération de texte crée par L'entreprise Open AI.</p>
+                                <p class="card-text">Chat GPT est une ia de génération de texte créée par L'entreprise Open AI.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Open AI</small>
@@ -28,7 +28,7 @@
                                 <a href="https://openai.com/dall-e-2">
                                     <h5 class="card-title">Dall E</h5>
                                 </a>
-                                <p class="card-text">Dall-E Est une intelligence artificielle basé sur chat gpt, elle permet à l'utilisateur de rentrer les différentes informations que la personne souhaite pour générer une image grace au informations (Prompt).</p>
+                                <p class="card-text">Dall-E est une intelligence artificielle basée sur chat gpt, elle permet à l'utilisateur de rentrer les différentes informations que la personne souhaite pour générer une image grâce aux informations (Prompt).</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Open AI</small>
@@ -42,7 +42,7 @@
                                 <a href="https://tome.app/">
                                     <h5 class="card-title">TOME IA</h5>
                                 </a>
-                                <p class="card-text">Tome Est une IA de génération de powerpoint et de diapositive de présentation générée automatiquement avec les informations donnée par l'utilisateurs, Il génére des images pour les diapositives ainsi que du texte et des titres pour la présentation</p>
+                                <p class="card-text">Tome est une IA de génération de powerpoint et de diapositive de présentation générée automatiquement avec les informations données par l'utilisateurs. Il génére des images pour les diapositives ainsi que du texte et des titres pour la présentation.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Tome IA</small>
@@ -56,7 +56,7 @@
                                 <a href="https://github.com/features/copilot">
                                     <h5 class="card-title">Github Copilot</h5>
                                 </a>
-                                <p class="card-text">Github Copilot est une ia de génération de ligne de code pour aider les développeur à regler les différents bug et problème de conception, Il est basé sur l'ia d'open AI Chat GPT-4</p>
+                                <p class="card-text">Github Copilot est une IA de génération de ligne de code pour aider les développeurs à regler les différents bugs et problèmes de conception. Il est basé sur l'IA d'open AI Chat GPT-4</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Microsoft</small>
