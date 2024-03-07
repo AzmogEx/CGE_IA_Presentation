@@ -37,14 +37,15 @@
             <div class="col-xl-2 col-sm-12">
                 <img class="w-50" src="./assets/img/cci-campus.png" alt="logo-cci">
             </div>
-            <div class="col-xl-8 col-sm-12">
+            <div class="col-xl-7 col-sm-12">
                 <h1 class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
             </div>
-            <div class="col-xl-2 col-sm-12">
-                <img class="w-50" src="./assets/img/métropole.png" alt="logo-métropole">
+            <div class="col-xl-3 col-sm-12">
+                <img class="w-75" src="./assets/img/métropole.png" alt="logo-métropole">
             </div>
         </div>
     </div>
+
 
     <!-- CARTES BENTO -->
     <section>
