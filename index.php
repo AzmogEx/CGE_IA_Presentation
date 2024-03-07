@@ -21,7 +21,7 @@
                 <img class="w-50" src="./assets/img/logo_cci_gard_web.png" alt="logo-cci">
             </div>
             <div class="col-xl-8 col-sm-12">
-                <h1 align="center" class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
+                <h1 class="display-6 align-center archivo-black-regular">Kit de prévention sur les IA</h1>
             </div>
             <div class="col-xl-2 col-sm-12">
                 <img class="w-50" src="./assets/img/métropole.png" alt="logo-métropole">
