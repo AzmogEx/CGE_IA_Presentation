@@ -57,24 +57,29 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                     <div class="card clickable rounded-5 shadow">
-                        <a data-bs-toggle="modal" data-bs-target="#actualiteModal"><img class="card-img rounded-5" src="/assets/img/actualites.png"></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card clickable rounded-5 shadow">
-                        <a href="/assets/Quizz-IA-Table-Rondes-CCI-GARD.pdf" target="_blank"><img class="card-img rounded-5" src="/assets/img/quizz.png"></a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card clickable rounded-5 shadow">
                         <a data-bs-toggle="modal" data-bs-target="#listeiaModal"><img class="card-img rounded-5" src="/assets/img/listeia.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                     <div class="card clickable rounded-5 shadow">
                         <a data-bs-toggle="modal" data-bs-target="#dangerModal"><img class="card-img rounded-5" src="/assets/img/danger.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                    <div class="card clickable rounded-5 shadow">
+                        <a data-bs-toggle="modal" data-bs-target="#remplacementModal"><img class="card-img rounded-5" src="/assets/img/remplacement.png"></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                    <div class="card clickable rounded-5 shadow">
+                        <a data-bs-toggle="modal" data-bs-target="#actualiteModal"><img class="card-img rounded-5" src="/assets/img/actualites.png"></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                    <div class="card clickable rounded-5 shadow">
+                        <a data-bs-toggle="modal" data-bs-target="#refModal"><img class="card-img rounded-5" src="/assets/img/ref.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
@@ -87,12 +92,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                     <div class="card clickable rounded-5 shadow">
-                        <a data-bs-toggle="modal" data-bs-target="#refModal"><img class="card-img rounded-5" src="/assets/img/ref.png"></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                    <div class="card clickable rounded-5 shadow">
-                        <a data-bs-toggle="modal" data-bs-target="#remplacementModal"><img class="card-img rounded-5" src="/assets/img/remplacement.png"></a>
+                        <a href="/assets/Quizz-IA-Table-Rondes-CCI-GARD.pdf" target="_blank"><img class="card-img rounded-5" src="/assets/img/quizz.png"></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
