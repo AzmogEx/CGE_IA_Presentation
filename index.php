@@ -123,7 +123,6 @@
             <li class="nav-item"><a href="/index.php" class="nav-link px-2 text-body-secondary">Accueil</a></li>
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Carte</a></li>
             <li class="nav-item"><a href="/faq.html" class="nav-link px-2 text-body-secondary">FAQ</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">A propos</a></li>
             <li class="nav-item"><a href="/partenaires.php" class="nav-link px-2 text-body-secondary">Partenaires</a>
             </li>
         </ul>
