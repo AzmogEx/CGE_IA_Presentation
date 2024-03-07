@@ -17,6 +17,8 @@ $theme-colors: map-merge($custom-theme-colors, $theme-colors);
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&display=swap");
+
 * {
 	margin: 0;
 	padding: 0;
@@ -49,5 +51,48 @@ body {
 }
 
 .logos-top {
-    display: block;
+	display: block;
+}
+
+.custom-modal-dialog {
+	max-width: 50%; /* Ajustez la valeur selon vos besoins */
+	margin: 1.75rem auto; /* Pour centrer le modal horizontalement */
+}
+
+.card-body {
+	padding-bottom: 0vw;
+}
+
+.audio-controls-1 {
+	margin-left: 2vw;
+	margin-top: 2vw;
+	margin-bottom: 4.5vw;
+}
+
+.audio-controls-2 {
+	margin-bottom: 2vw;
+	margin-left: 2vw;
+}
+
+audio {
+	margin-bottom: 1vw;
+	display: block;
+	border-radius: 1em;
+	background-color: #3773f5 !important;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
