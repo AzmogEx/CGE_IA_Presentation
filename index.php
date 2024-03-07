@@ -77,11 +77,20 @@
                         <a data-bs-toggle="modal" data-bs-target="#dangerModal"><img class="card-img rounded-5" src="/assets/img/danger.png"></a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3 d-flex align-items-stretch">
                     <div class="card clickable rounded-5 shadow">
-                        <div class="card-body">
-                            <audio class="audio-controls-1" type='audio/mp3' src="/assets/audio/capsule-deepfake.mp3" controls></audio>
-                            <audio class="audio-controls-2" type='audio/mp3' src="/assets/audio/capsule-soltani-nolwen.mp3" controls></audio>
+                        <div class="card-body p-3">
+                            <h5 class="card-title">Capsules audio</h5>
+                            <div class="container">
+                                <div class="row mb-xl-4 mb-sm-1">
+                                    <label for="player1">Qu'est-ce que le deepfake ?</label>
+                                    <audio name="player1" class="audio-controls-1" type='audio/mp3' src="/assets/audio/capsule-deepfake.mp3" controls></audio>
+                                </div>
+                                <div class="row">
+                                    <label for="player2">L'IA et l'école</label>
+                                    <audio name="player2" class="audio-controls-2" type='audio/mp3' src="/assets/audio/capsule-soltani-nolwen.mp3" controls></audio>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

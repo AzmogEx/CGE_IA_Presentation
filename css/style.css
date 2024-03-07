@@ -11997,22 +11997,8 @@ body {
   padding-bottom: 0vw;
 }
 
-.audio-controls-1 {
-  margin-left: 2vw;
-  margin-top: 2vw;
-  margin-bottom: 4.5vw;
-}
-
-.audio-controls-2 {
-  margin-bottom: 2vw;
-  margin-left: 2vw;
-}
-
 audio {
-  margin-bottom: 1vw;
-  display: block;
-  border-radius: 1em;
-  background-color: #3773f5 !important;
+  border-radius: 100px;
 }
 
 .video-container {
