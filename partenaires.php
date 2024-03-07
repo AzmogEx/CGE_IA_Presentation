@@ -23,7 +23,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-6 col-sm-12 p-3">
 					<div class="card clickable rounded-5">
-						<a href="https://www.gard.cci.fr/"><img class="card-img rounded-5" src="/assets/img/cci-campus.png" /></a>
+						<a href="https://www.gard.cci.fr/"><img class="card-img rounded-5" src="/assets/img/cci-campus.png" width="100" height="230" /></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 p-3">
@@ -33,7 +33,7 @@
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 p-3">
 					<div class="card clickable rounded-5">
-						<a href="https://www.nimes.fr/"><img class="card-img rounded-5" src="/assets/img/nimes.jpg" /></a>
+						<a href="https://www.nimes.fr/"><img class="card-img rounded-5" src="/assets/img/nimes.jpg" height="230" /></a>
 					</div>
 				</div>
 			</div>
