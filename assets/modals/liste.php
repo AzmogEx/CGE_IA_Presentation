@@ -14,7 +14,7 @@
                                 <a href="https://chat.openai.com/">
                                     <h5 class="card-title">ChatGPT</h5>
                                 </a>
-                                <p class="card-text">Chat GPT est une ia de génération de texte créée par L'entreprise Open AI.</p>
+                                <p class="card-text">Chat GPT est une IA de génération de texte créée par L'entreprise Open AI.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Open AI</small>

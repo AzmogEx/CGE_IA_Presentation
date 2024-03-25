@@ -14,7 +14,7 @@
                                 <a href="https://www.macsf.fr/actualites/intelligence-artificielle-et-sante-quels-changements-pour-vos-pratiques">
                                     <h5 class="card-title">L'IA dans la médecine</h5>
                                 </a>
-                                <p class="card-text">L'IA dans la médecine pourrait elle remplacer les médecin ?</p>
+                                <p class="card-text">L'IA dans la médecine pourrait-elle remplacer les médecin ?</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Macsf</small>
@@ -40,7 +40,7 @@
                             <img src="https://media.licdn.com/dms/image/D5612AQHwS4m17S00RA/article-cover_image-shrink_720_1280/0/1691074259795?e=1714608000&v=beta&t=xShw7Hq4Lb2zE1s1ZemZJy1Hpq7cdXT6YHrt-Ifghc0" class="card-img" alt="Infographie CES 2024">
                             <div class="card-body">
                                 <a href="https://www.linkedin.com/pulse/limpact-révolutionnaire-de-lia-sur-le-métier-designer-graphique/?originalSubdomain=fr">
-                                    <h5 class="card-title">Les Graphiste en danger avec l'IA</h5>
+                                    <h5 class="card-title">Les Graphistes en danger avec l'IA</h5>
                                 </a>
                                 <p class="card-text">Voici un article sur : comment l'IA va mettre en péril les métiers graphiques.</p>
                             </div>

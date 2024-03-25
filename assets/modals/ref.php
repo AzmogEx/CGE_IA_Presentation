@@ -31,7 +31,7 @@
                                     <h5 class="card-title">Matrix</h5>
                                 </a>
                                 <p class="card-text">Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber-espace. A cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui-ci l'exhorte à aller au-delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est-ce que la
-                                    Matrice ? Nul ne le sait, et aucun homme n'est encore parvenu à en percer les defenses. Mais Morpheus est persuadé que Neo est l'Elu, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents...</p>
+                                    Matrice ? Nul ne le sait, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents...</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Allociné</small>
@@ -60,7 +60,7 @@
                                 <a href="https://www.allocine.fr/film/fichefilm_gen_cfilm=47739.html">
                                     <h5 class="card-title">I ROBOT</h5>
                                 </a>
-                                <p class="card-text">En 2035, les robots sont devenus de parfaits assistants pour les êtres humains. Le détective Del Spooner enquête sur le meurtre du docteur Alfred Lanning, un chercheur en robotique. Le principal suspect semble être un androïde nommé Sonny. Or, si l'on s'en réfère aux lois de la robotique, les robots ne sont pas dotés de la faculté de tuer....</p>
+                                <p class="card-text">En 2035, les robots sont devenus de parfaits assistants pour les êtres humains. Le détective Del Spooner enquête sur le meurtre du docteur Alfred Lanning, un chercheur en robotique. Le principal suspect semble être un androïd nommé Sonny. Or, si l'on s'en réfère aux lois de la robotique, les robots ne sont pas dotés de la faculté de tuer....</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Allociné</small>

@@ -14,7 +14,7 @@
                                 <a href="https://www.youtube.com/watch?v=xLs9soFVXrw">
                                     <h5 class="card-title">Macron rape sur Freeze Corleone</h5>
                                 </a>
-                                <p class="card-text">Sur cette vidéo on peut y voir un deepfake de Macron qui rappe sur Freeze Corleone. Cela permet donc de comprendre les dangers des IA qui pourrait par la suite faire diffuser de fausse informations sur n'importe qui.</p>
+                                <p class="card-text">Sur cette vidéo on peut y voir un deepfake de Macron qui rappe sur Freeze Corleone. Cela permet donc de comprendre les dangers des IA qui pourrait par la suite faire diffuser de fausses informations sur n'importe qui.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Youtube</small>
@@ -28,10 +28,10 @@
                                 <a href="https://www.liberation.fr/checknews/deepfake-un-faux-message-durgence-de-poutine-appelant-a-levacuation-de-regions-entieres-diffuse-a-la-television-et-radio-russe-20230605_OWD5F4WUHVGHRM2KE7INHAT76E/">
                                     <h5 class="card-title">Fausse alerte à la bombe par une IA avec la voix de Vladimir Poutine</h5>
                                 </a>
-                                <p class="card-text">Dans cette article du journal Liberation nous pouvons y découvrir qu'un faux message d'urgence de Poutine appellant à l'évacuation de régions entières aurait été diffusé à la télévision et à la radio Russe.</p>
+                                <p class="card-text">Dans cet article du journal Libération nous pouvons y découvrir qu'un faux message d'urgence de Poutine appelant à l'évacuation de régions entières aurait été diffusé à la télévision et à la radio Russe.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
-                                <small class="text-body-secondary">Liberation</small>
+                                <small class="text-body-secondary">Libération</small>
                             </div>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                                 <a href="https://twitter.com/i/status/1741512699664568781">
                                     <h5 class="card-title">Marine le pen parle Russe</h5>
                                 </a>
-                                <p class="card-text">Dans ce Deepfake des internautes on fait parler Marine Le Pen en russe.</p>
+                                <p class="card-text">Dans cette Deepfake, des internautes on fait parler Marine Le Pen en russe.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Twitter</small>
@@ -57,7 +57,7 @@
                                 <a href="https://www.youtube.com/watch?v=EiV1YxtbfcE">
                                     <h5 class="card-title">Fausse chanson d'Angèle réalisée grâce à l'IA </h5>
                                 </a>
-                                <p class="card-text">Cette vidéo youtube est une chanson réalisée grâce à l'IA reproduisant très fidèlement la voix de Angèle pouvant faire croire à certaines personnes que cette musique est officielle.</p>
+                                <p class="card-text">Cette vidéo youtube est une chanson réalisée grâce à l'IA reproduisant très fidèlement la voix d'Angèle pouvant faire croire à certaines personnes que cette musique est officielle.</p>
                             </div>
                             <div class="card-footer bg-body-tertiary border-0">
                                 <small class="text-body-secondary">Youtube</small>
